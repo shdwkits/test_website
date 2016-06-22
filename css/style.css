@@ -1,0 +1,44 @@
+html, body {
+	width: 100%;
+	background-color: #68d88d;
+}
+
+.container {
+	width: 600px;
+	margin: 0 auto 0 auto;
+	background-color: #ffffff;
+}
+
+header {
+	background-color: #928883;
+}
+
+h1 {
+	font-size: 1.5em;
+	color: #000000;
+}
+
+p {
+	color: #000000;
+}
+
+footer {
+	background-color: #f08eee;
+}
+
+a {
+	text-decoration: none;
+	color: #937748;
+}
+
+a:visited {
+	color: #02f80a;
+}
+
+a:active {
+	color: #fac7f7;
+}
+
+a:hover {
+	color: #fac7f7;
+}
